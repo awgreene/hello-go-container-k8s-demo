@@ -1,3 +1,3 @@
 # hello go
 
-This repo consists of a simple go http server.
+The purpose of this repo is to show audiences how easy it is to ship applications with containers.
